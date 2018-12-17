@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584438585323",
+    "firebase_url": "https://gallerysmart-ea19c.firebaseio.com",
+    "project_id": "gallerysmart-ea19c",
+    "storage_bucket": "gallerysmart-ea19c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584438585323:android:d2793ae2c92539be",
+        "android_client_info": {
+          "package_name": "com.example.dibbi.gallerysmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584438585323-6g63imct9gagvs5akn0do31mssv4mofs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dibbi.gallerysmart",
+            "certificate_hash": "e604e43ad48d80e72831603cde47305779bf462c"
+          }
+        },
+        {
+          "client_id": "584438585323-l261cbffktqnvs80al26iv3ilbuin8hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dyIfpUfbcJQQ-ifqQu1WSfyN974iKAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584438585323-l261cbffktqnvs80al26iv3ilbuin8hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
